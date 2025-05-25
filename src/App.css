@@ -71,7 +71,7 @@
 }
 
 .blogbar{
-    display: flex;
+  display: flex;
   background-color: #ff5cbe;
   align-items: center;
   margin-left: 4px;
